@@ -8,9 +8,9 @@
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" src="https://icongr.am/simple/pytorch.svg?size=99&color=currentColor&colored=false" />
-  <img align="center" height="30" width="40" src="https://icongr.am/simple/pandas.svg?size=128&color=currentColor&colored=false" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://icongr.am/simple/amazonaws.svg?size=128&color=cfcfcf&colored=false" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
 
@@ -18,13 +18,15 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
-  
+ <br> 
 <p align="left">
 <a href="mailto:pattrickx@edu.unifor.br" alt="Gmail">
 <img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=pattrickx@edu.unifor.br" /></a>
-  
+
 <a href="https://www.linkedin.com/in/patrick-m-lima/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-m-lima/" /></a>
-
+  
+- 💻 Skills **Deep Learning, Computer Vision, Data Science, Data Cleaning**
 - 🔭 I’m currently working on [KnowCode](https://www.linkedin.com/in/patrick-m-lima/#)
 - 🌱 I’m currently learning **Siamese Networks and CNN with pytorch**
+
