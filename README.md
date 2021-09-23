@@ -7,12 +7,11 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" src="https://icongr.am/simple/pytorch.svg?size=99&color=currentColor&colored=false" />
+  <img align="center" height="30" width="40" src="https://icongr.am/simple/pytorch.svg?size=128&color=9c9c9c" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" height="30" width="40" src="https://icongr.am/simple/amazonaws.svg?size=128&color=cfcfcf&colored=false" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+  <img align="center" height="30" width="40" src="https://icongr.am/simple/amazonaws.svg?size=128&color=9c9c9c" />
+  <img align="center" height="30" width="40" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=9c9c9c" />
 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
