@@ -38,6 +38,6 @@
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-m-lima/" /></a>
   
 - 💻 Skills **Deep Learning, Computer Vision, Data Science, Data Cleaning**
-- 🔭 I’m currently working on [KnowCode](https://www.linkedin.com/in/patrick-m-lima/#)
-- 🌱 I’m currently learning **Siamese Networks and CNN with pytorch**
+- 🔭 I’m currently working on [**KnowCode**](https://www.linkedin.com/in/patrick-m-lima/#)
+- 🌱 I’m currently studying about **Siamese Networks and CNN with pytorch**
 
