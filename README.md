@@ -10,7 +10,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" src="https://icongr.am/simple/pytorch.svg?size=68&color=9c9c9c" />
+  <img align="center" height="30" width="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
   <img align="center" height="30" width="40" src="https://api.iconify.design/logos/opencv.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
