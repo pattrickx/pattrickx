@@ -39,5 +39,5 @@
   
 - 💻 Skills **Deep Learning, Computer Vision, Data Science, Data Cleaning**
 - 🔭 I’m currently working on [**KnowCode**](https://www.linkedin.com/in/patrick-m-lima/#)
-- 🌱 I’m currently studying about **Siamese Networks and CNN with pytorch**
+- 🌱 I’m currently studying about **NLP**
 
