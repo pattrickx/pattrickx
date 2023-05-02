@@ -10,7 +10,7 @@
 
 ### Languages and Tools:
   
-<div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="30" width="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
   <img align="center" height="30" width="40" src="https://api.iconify.design/logos/opencv.svg"/>
@@ -40,6 +40,6 @@
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-m-lima/" /></a>
   
 - 💻 Skills **Deep Learning, Computer Vision, Data Science, Data Cleaning**
-- 🔭 I’m currently working on [**KnowCode**](https://www.linkedin.com/in/patrick-m-lima/#)
+- 🔭 I’m currently working on [**KPMG**](https://www.linkedin.com/in/patrick-m-lima/#)
 - 🌱 I’m currently studying about **NLP**
 
